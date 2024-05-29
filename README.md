@@ -4,3 +4,6 @@
 
 ## Social Media Engagement
 <img width="869" alt="image" src="https://github.com/elijahnkuah/Power-BI-Reports/assets/46516506/0e098195-87ea-4fa8-b9db-7afbeeb2e1b2">
+
+### Note:
+Most of the data processing is done in python
